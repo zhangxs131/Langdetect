@@ -2,12 +2,14 @@
 
 # README
 
+目前支持识别 13 种语言： Chinese  English  Japanese French Korean Russian Spanish German vietnam Tibetan uyghur  mongolian Kazakh
+
 ## 1. Install
 
 下载whl到本地后，pip进行安装
 
 ```
-pip install langdet-1.0.0-py3-none-any.whl
+pip install langdet-1.0-py3-none-any.whl
 ```
 
 测试是否安装成功
@@ -51,6 +53,13 @@ dect.detect_file(file_path)
 
 ```
 dect.detect_text(str)
+```
+
+将int索引解码为字符串或中文显示
+
+```
+dect.id_to_str(index)
+dect.id_to_chinese(index)
 ```
 
 检测文本编码类型

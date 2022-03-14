@@ -16,6 +16,13 @@ pip install langdet-1.0.0-py3-none-any.whl
 from langdet.Langdet import Langdet
 ```
 
+或者使用git下载
+
+git clone https://github.com/zhangxs131/Langdetect.git
+pip install chardet
+cd Langdet
+python example.py
+
 导入类，成功安装
 
 ## 2. How to use

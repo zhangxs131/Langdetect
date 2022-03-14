@@ -19,7 +19,7 @@ pip install langdet-1.0-py3-none-any.whl
 测试是否安装成功
 
 ```python
-from langdet.Langdect import Langdect
+from langdet.Langdet import Langdet
 ```
 
 或者使用git下载

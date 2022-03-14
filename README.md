@@ -18,10 +18,12 @@ from langdet.Langdet import Langdet
 
 或者使用git下载
 
+```
 git clone https://github.com/zhangxs131/Langdetect.git
 pip install chardet
 cd Langdet
 python example.py
+```
 
 导入类，成功安装
 

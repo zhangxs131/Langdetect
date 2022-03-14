@@ -2,7 +2,11 @@
 
 # README
 
-目前支持识别 13 种语言： Chinese  English  Japanese French Korean Russian Spanish German vietnam Tibetan uyghur  mongolian Kazakh
+目前支持识别 13 种语言： 
+
+语言：Chinese  English  Japanese French Korean Russian Spanish German vietnam 
+
+少数民族语言 ：Tibetan uyghur  mongolian Kazakh
 
 ## 1. Install
 
